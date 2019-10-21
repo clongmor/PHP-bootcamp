@@ -1,0 +1,18 @@
+H1{color:black;text-align:center; font-size:4vw;}
+td{border:1px solid black;}
+#tdelem{text-align:center;font-weight:bold;font-size:2vw;}
+th{vertical-align:bottom;}
+#tdatom{vertical-align:top;text-align:right;font-size:1vw;}
+#tdnum{vertical-align:bottom;text-align:left;font-size:1vw;}
+#alkali-metal{background-color:pink;}
+#alkaline-earth{background-color:purple;}
+#tmetal{background-color:grey;}
+#bmetal{background-color:orange;}
+#semimetal{background-color:green;}
+#non-metal{background-color:blue;}
+#Halogen{background-color:yellow;}
+#noble-gas{background-color:violet;}
+#lanathide{background-color:lime;}
+#actinide{background-color:red;}
+th, td{width:5vw;height:5vh; max-width: 5vw;}
+table{border-spacing: 0px;border-collapse:collapse; margin-left:auto;margin-right:auto;}
